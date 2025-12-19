@@ -1,0 +1,5 @@
+{
+  "name": "VidManager Pro",
+  "description": "A professional video asset management tool featuring local playback, organization, and AI-powered metadata enhancement using Gemini 2.5.",
+  "requestFramePermissions": []
+}
